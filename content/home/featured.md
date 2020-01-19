@@ -9,7 +9,8 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = ""
+subtitle = """<a href="https://www.tsijournals.com/articles/prediction-of-efficacy-of-oligopeptides-using-qsar-and-ann.html" target="_blank">Prediction of Efficacy of Oligo-Peptides using QSAR and ANN</a>"""
+abstract = "Artificial Neural Network (ANN) is statistical learning models inspired by biological neural networks. The research work presented here mainly focused on use of ANN for quantitative structure activity relationship modeling of peptides. Some peptides can work as anti-depressing agents, as they reduce the activity of Angiotensin I Converting Enzyme (ACE), which converts Angiotensin I to Angiotensin II (a vasoconstrictor). In this work, we have used LogIC<sub>50</sub> as the property to show the activity of peptides against ACE. The networks are prepared using the principle artificial neural network using SNNS (Stuttgart Neural Network Simulator). The best obtained network for di-peptides has architecture of 24-8-3-1 and the average absolute average errors obtained are 0.34, 0.42 and 0.58 for training, validation and test set respectively."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

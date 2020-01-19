@@ -5,8 +5,20 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title = "Research Project"
+subtitle = "Prediction of Efficacy of Oligo-Peptides using QSAR and ANN"
+description = """
+
+Methodology:
+
+* Did research to predict IC<sub>50</sub> values of peptides using Artificial Neural Network & QSAR
+* Used Sttugart Neural Network Simulator (SNNS) and R for modelling
+* Used neural networks with 1 and 2 hidden layers with quick propagation algorithm
+
+Achievement:
+
+* Second prize in International Conference on Artificial Intelligence held at NMIMS, Shirpur
+"""
 
 [content]
   # Page type to display. E.g. project.
