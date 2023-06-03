@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Dhruv Rana
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Dhruv
+last_name: Rana
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: EXL
+    url: https://www.exlservice.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Fintech
+  - Blockchain
+  - DevOps
+  - Backend Development
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Chem
+      institution: ICT Mumbai
+      year: 2016
+    - course: B.E. (Hons.) Chemical Engineering
+      institution: BITS Pilani, Pilani Campus
+      year: 2013
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,28 +50,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:dhruvrana27@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.tsijournals.com/articles/prediction-of-efficacy-of-oligopeptides-using-qsar-and-ann.html
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dhruvrana72
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dhruv-r-234b2819/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Dhruv_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dhruv joined EXL in September 2021 as a Senior Consultant. Prior to joining EXL, he worked as a Research Analyst and Software Engineer in algo trading. His previous professional experiences are in the areas of blockchain, back-end development, and data science. He has developed projects in monetizing personally identifiable information (PII) data on the blockchain and predicting delinquent customers in a loan portfolio.
+
+With a bachelor’s degree from Birla Institute of Technology & Science (BITS), Pilani, and a master’s degree from the Institute of Chemical Technology (ICT), Mumbai, Dhruv’s interests mainly lie in the fields of fintech and machine learning. He has published research on artificial neural networks and is proficient in programming languages such as Python, R, and Ruby. Dhruv is fluent in English and Hindi (native).
 {style="text-align: justify;"}
